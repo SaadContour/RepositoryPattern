@@ -1,0 +1,76 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Create Page";
+}
+@model ProductViewModel
+<div class="container">
+    <div class="border-dark row pt-4 pb-3">
+        <div class="col-6">
+            <h2 class="text-primary">Create Product</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Product" asp-action="Index" class="btn btn-primary">
+                @*  <i class="bi bi-plus-circle"></i> *@
+                Back
+            </a>
+        </div>
+        <form method="post" asp-controller="Product" asp-action="Create" enctype="multipart/form-data">
+            <div class="row">
+                <div class="col-6 mb-3">
+                    <label asp-for="Name">Name</label>
+                    <input asp-for="Name" class="form-control" />
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+                <div class="col-6 mb-3">
+                    <label asp-for="Quality">Quality</label>
+                    <input asp-for="Quality" class="form-control" />
+                    <span class="text-danger" asp-validation-for="Quality"></span>
+                </div>
+                <div class="col-6 mb-3">
+                    <label asp-for="Quantity">Quantity</label>
+                    <input asp-for="Quantity" class="form-control" />
+                    <span class="text-danger" asp-validation-for="Quantity"></span>
+                </div>
+                <div class="col-6 mb-3">
+                    <label asp-for="Price">Price</label>
+                    <input asp-for="Price" class="form-control" />
+                    <span class="text-danger" asp-validation-for="Price"></span>
+                </div>
+                <div class="col-6 mb-3">
+                    <label asp-for="Description">Description</label>
+                    <input asp-for="Description" class="form-control" />
+                    <span class="text-danger" asp-validation-for="Description"></span>
+                </div>
+                <div class="col-6 mb-3">
+                    <label asp-for="Colour">Colour</label>
+                    <input asp-for="Colour" class="form-control" />
+                    <span class="text-danger" asp-validation-for="Colour"></span>
+                </div>
+                <div class="col-6 mb-3">
+                    <label asp-for="Image">Image</label>
+                    <input asp-for="Image" type="file" class="form-control" />
+                    <span class="text-danger" asp-validation-for="Image"></span>
+                </div>
+                <div class="col-6 mb-3">
+                    <label asp-for="CategoryId">Category</label>
+                    <select asp-for="CategoryId" id="Id" class="form-control" asp-items="@ViewBag.Categories">
+                        <option disabled selected>--- Select Category ---</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6">
+                    <button type="submit" class="btn btn-primary form-control" style="width:200px">Submit</button>
+
+                </div>
+                <div class="col-6">
+                    <a asp-controller="Product" class="btn btn-secondary form-control" style="width:200px" asp-action="Index">Back</a>
+
+                </div>
+            </div>
+        </form>
+    </div>
+
+</div>

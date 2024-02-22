@@ -1,0 +1,199 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AssignmentEF
+build_property.RootNamespace = AssignmentEF
+build_property.ProjectDir = C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\AssignmentEF\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\AssignmentEF
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Category/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Company/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Company/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Company/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Company/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Company/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/DeliveryItems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlJdGVtc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/DeliveryItems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlJdGVtc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/DeliveryItems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlJdGVtc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/DeliveryItems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlJdGVtc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/DeliveryItems/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlJdGVtc1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Delivery/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Delivery/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Delivery/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Delivery/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Delivery/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/POItems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE9JdGVtc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/POItems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE9JdGVtc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/POItems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE9JdGVtc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/POItems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE9JdGVtc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/POItems/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE9JdGVtc1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Product/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/PurchaseOrder/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhc2VPcmRlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/PurchaseOrder/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhc2VPcmRlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/PurchaseOrder/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhc2VPcmRlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/PurchaseOrder/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhc2VPcmRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/PurchaseOrder/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhc2VPcmRlclxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/siddjsaa/OneDrive - PERSEUS MANAGEMENT GROUP INC/C\#.Net/AssignmentEF/AssignmentEF/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2bgi8iuq14

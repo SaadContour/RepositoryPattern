@@ -1,0 +1,17 @@
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\obj\Debug\net8.0\Assignment.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\obj\Debug\net8.0\Assignment.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\obj\Debug\net8.0\Assignment.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\obj\Debug\net8.0\Assignment.DataAccessLayer.AssemblyInfo.cs
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\obj\Debug\net8.0\Assignment.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\bin\Debug\net8.0\Assignment.DataAccessLayer.deps.json
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\bin\Debug\net8.0\Assignment.DataAccessLayer.runtimeconfig.json
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\bin\Debug\net8.0\Assignment.DataAccessLayer.dll
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\bin\Debug\net8.0\Assignment.DataAccessLayer.pdb
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\bin\Debug\net8.0\Assignment.Models.dll
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\bin\Debug\net8.0\Assignment.Models.pdb
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\obj\Debug\net8.0\Assignment.DataAccessLayer.csproj.CopyComplete
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\obj\Debug\net8.0\Assignment.DataAccessLayer.dll
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\obj\Debug\net8.0\refint\Assignment.DataAccessLayer.dll
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\obj\Debug\net8.0\Assignment.DataAccessLayer.pdb
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\obj\Debug\net8.0\Assignment.DataAccessLayer.genruntimeconfig.cache
+C:\Users\siddjsaa\OneDrive - PERSEUS MANAGEMENT GROUP INC\C#.Net\AssignmentEF\Assignment.DataAccessLayer\obj\Debug\net8.0\ref\Assignment.DataAccessLayer.dll

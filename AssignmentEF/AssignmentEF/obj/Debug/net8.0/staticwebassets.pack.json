@@ -1,0 +1,293 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AssignmentEF.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AssignmentEF.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\Images\\3bf54104-b2c6-4719-8df2-24a9df88255d-living-room-8557308_1920.jpg",
+      "PackagePath": "staticwebassets\\Images\\3bf54104-b2c6-4719-8df2-24a9df88255d-living-room-8557308_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\Images\\5cc2830f-eaf6-4d4e-9cca-41c05788eeb6-living-room-8557308_1920.jpg",
+      "PackagePath": "staticwebassets\\Images\\5cc2830f-eaf6-4d4e-9cca-41c05788eeb6-living-room-8557308_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\Images\\71e0c032-0f5c-49fa-ade7-69e34444e854-living-room-8557308_1920.jpg",
+      "PackagePath": "staticwebassets\\Images\\71e0c032-0f5c-49fa-ade7-69e34444e854-living-room-8557308_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\Images\\8c530bb7-49d1-482c-9c29-2303750b8827-living-room-8557308_1920.jpg",
+      "PackagePath": "staticwebassets\\Images\\8c530bb7-49d1-482c-9c29-2303750b8827-living-room-8557308_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\Images\\abf41a50-4c63-4d8f-a7c3-b984ab9b65c2-living-room-8557308_1920.jpg",
+      "PackagePath": "staticwebassets\\Images\\abf41a50-4c63-4d8f-a7c3-b984ab9b65c2-living-room-8557308_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\Images\\b59d317b-43e5-4d2e-b70b-a95b81178a9a-living-room-8557308_1920.jpg",
+      "PackagePath": "staticwebassets\\Images\\b59d317b-43e5-4d2e-b70b-a95b81178a9a-living-room-8557308_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\Images\\c9a736bc-35a0-49bd-a5ea-119895c705c1-living-room-8557308_1920.jpg",
+      "PackagePath": "staticwebassets\\Images\\c9a736bc-35a0-49bd-a5ea-119895c705c1-living-room-8557308_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\siddjsaa\\OneDrive - PERSEUS MANAGEMENT GROUP INC\\C#.Net\\AssignmentEF\\AssignmentEF\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AssignmentEF.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AssignmentEF.props",
+      "PackagePath": "build\\AssignmentEF.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AssignmentEF.props",
+      "PackagePath": "buildMultiTargeting\\AssignmentEF.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AssignmentEF.props",
+      "PackagePath": "buildTransitive\\AssignmentEF.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
